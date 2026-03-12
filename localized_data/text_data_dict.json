@@ -14513,6 +14513,7 @@
         "164": "Trait Reacquisition Pass"
     },
     "47": {
+        "204222": "◎◎◎ もう一踏ん張り",
         "10071": "Warning Shot!",
         "10081": "Accelerator X",
         "10091": "Red Ace",
@@ -15109,7 +15110,7 @@
         "201611": "◎◎◎ Hold Your Tail High",
         "201612": "◎◎◎ Tail of Victory",
         "201621": "Shake It Out",
-        "201631": "Sympathy",
+        "201631": "◎◎◎ Sympathy",
         "201632": "Connection",
         "201641": "Lone Wolf",
         "201651": "Slipstream",
@@ -36304,6 +36305,9 @@
         "9048": "A national star☆ An idol gathering massive attention♪"
     },
     "147": {
+        "2042201": "◎◎◎ もう一踏ん張り",
+        "2042202": "◎◎◎ もう一踏ん張り",
+        "2042203": "◎◎◎ もう一踏ん張り",
         "101": "Speed",
         "102": "Speed",
         "103": "Speed",
@@ -36922,9 +36926,9 @@
         "2016201": "Shake It Out",
         "2016202": "Shake It Out",
         "2016203": "Shake It Out",
-        "2016301": "Sympathy",
-        "2016302": "Sympathy",
-        "2016303": "Sympathy",
+        "2016301": "◎◎◎ Sympathy",
+        "2016302": "◎◎◎ Sympathy",
+        "2016303": "◎◎◎ Sympathy",
         "2016401": "Lone Wolf",
         "2016402": "Lone Wolf",
         "2016403": "Lone Wolf",
